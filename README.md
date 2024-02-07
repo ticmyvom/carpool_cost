@@ -11,3 +11,6 @@ Where:
 - \<people\>: how many people were in the car, in integer
 ## Notes:
 All arguments are mandatory. 
+
+# Things I learned
+Practice using C to solve a real world problem that I often faced: figuring the cost to send money to my friends after carpooling with them to/from school.
